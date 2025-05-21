@@ -1,6 +1,6 @@
 [package]
 name = "agent-parser-ro"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A comprehensive user agent string parser that detects browser, operating system, and device type"
 license = "MIT OR Apache-2.0"
